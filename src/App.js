@@ -8,13 +8,13 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div style={{ background: "#141414" }}>
+    <div style={{ background: "#060638" }}>
       <Menu />
 
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"O que é FullStack? entendendo o que é um desenvolvedor FullStack."}
       />
 
       <Carousel

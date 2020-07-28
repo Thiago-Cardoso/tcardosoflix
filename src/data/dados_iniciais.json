@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que é um desenvolvedor Fullstack? #DevPleno",
+          "url": "https://www.youtube.com/watch?v=CBGRhtpdXgQ"
         },
         {
           "titulo": "SEO com React",
@@ -101,23 +101,23 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "green",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Bravestorm",
+          "url": "https://www.youtube.com/watch?v=hQtqcr53V1g"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Alita Anjo de combate",
+          "url": "https://www.youtube.com/watch?v=bF6wNMjPwJY"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Bloodshot",
+          "url": "https://www.youtube.com/watch?v=JbmekdTqrWw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "The old Guardian",
+          "url": "https://www.youtube.com/watch?v=aK-X2d0lJ_s"
         }
       ]
     },
@@ -125,29 +125,29 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Ghost of Tsushima",
+          "url": "https://www.youtube.com/watch?v=iqysmS4lxwQ"
         },
         {
           "titulo": "Assassins Creed Valhalla",
           "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "CyberPunk 2077",
+          "url": "https://www.youtube.com/watch?v=YTCUhcyiu4U"
         },
         {
           "titulo": "Resident Evil 8",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "The Last Of us 2",
+          "url": "https://www.youtube.com/watch?v=qPNiIeKMHyg&t=9s"
         }
       ]
     },
