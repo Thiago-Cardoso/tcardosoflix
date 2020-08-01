@@ -5,7 +5,7 @@
       "titulo": "Full Stack",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "FullStack carreira",
+        "text": "Full Stack carreira",
         "url": "https://www.youtube.com/watch?v=IvcHBzSD8Jo"
       }
     },
@@ -14,7 +14,7 @@
       "titulo": "Back End carreira",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Seja um programador backend de Sucesso",
+        "text": "Seja um programador Back End de Sucesso",
         "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI"
       }
     },
@@ -35,11 +35,7 @@
     {
       "id": 5,
       "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Cyberpunk 2077",
-        "url": "https://www.youtube.com/watch?v=ixl31324UxE"
-      }
+      "cor": "red"
     }
   ],
   "videos": [
